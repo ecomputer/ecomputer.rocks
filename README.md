@@ -4,6 +4,9 @@ Ecomputer.rocks is the ice for your Scotch, we are forking Scotch Box 2.5. It's 
 
 For now, it includes PhpMyadmmin, and a sligthy different folder structure.
 
+Also useful
+-----------
+[Vagrant dependency manager](https://github.com/DevNIX/Vagrant-dependency-manager)
 
 Scotch Box
 ==========
