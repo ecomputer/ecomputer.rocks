@@ -8,6 +8,10 @@ Also useful
 -----------
 [Vagrant dependency manager](https://github.com/DevNIX/Vagrant-dependency-manager)
 
+
+[![Ecomputer](http://www.ecomputer.es/imagenes/empresa/descargas/logotipo_ecomputer_alargado_azul_min.jpg)](http://www.ecomputer.es)
+
+
 Scotch Box
 ==========
 
